@@ -1,0 +1,14 @@
+# Build output (CLion / CMake)
+cmake-build-*/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# IDE settings
+.idea/
+
+# Logs and backups
+*.log
+doxygen_log.txt
+*.bak
